@@ -1,0 +1,16 @@
+{
+  "name": "lab-l-1",
+  "version": "1.0.0",
+  "description": "First TX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Thomson",
+  "license": "ISC",
+  "dependencies": {
+    "@babbage/sdk-ts": "^0.2.51",
+    "cwi-base": "^0.4.46",
+    "pushdrop": "^0.1.61"
+  }
+}
